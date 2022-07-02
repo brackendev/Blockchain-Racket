@@ -1,7 +1,7 @@
 Blockchain-Racket
 =================
 
-My walkthrough of the outstanding [Introduction to Blockchain in Lisp](https://leanpub.com/ibl) book by [Boro Sitnikovski](https://bor0.wordpress.com/) with some additional code changes (lots of tests and documentation, [threading macros](https://docs.racket-lang.org/threading/index.html), code changes, etc.).
+My walkthrough of the outstanding [Introduction to Blockchain in Lisp](https://leanpub.com/ibl) book by [Boro Sitnikovski](https://bor0.wordpress.com/) with some changes (tests added, code comments added, [threading macros](https://docs.racket-lang.org/threading/index.html) added, code changes, etc.).
 
 View the original project [here](https://github.com/MarkP88/racket-coin).
 
