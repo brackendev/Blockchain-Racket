@@ -75,7 +75,7 @@
                                 utxo)])
     (blockchain new-blocks utxo-rewarded)))
 
-;; Retunrs the current receiver's transaction inputs.
+;; Returns the current receiver's transaction inputs.
 (define (receiver-transaction-inputs w utxo)
   (filter (λ (tr) (equal? w (transaction-io-owner tr)))
           utxo))
