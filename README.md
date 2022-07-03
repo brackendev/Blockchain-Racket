@@ -5,7 +5,7 @@ My walkthrough of the outstanding [Introduction to Blockchain in Lisp](https://l
 
 View the original project [here](https://github.com/MarkP88/racket-coin).
 
-* [DrRacket 8.5](https://download.racket-lang.org/) reference platform.
+* [Racket 8.5](https://download.racket-lang.org/) reference platform.
 * Tests included.
 
 ## Installation
